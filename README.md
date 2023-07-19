@@ -1,2 +1,4 @@
 # hello-word
-Primeiro repositório que simboliza meu começo nessa plataforma... Incrivelmente desnecessário.
+Primeiro repositório que simboliza meu começo nessa plataforma... Incrivelmente desnecessário.  
+
+> bosta dupla
